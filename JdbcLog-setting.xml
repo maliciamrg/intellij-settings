@@ -1,0 +1,35 @@
+<application>
+  <component name="JdbcLog">
+    <option name="generalSettings">
+      <map>
+        <entry key="444017f8">
+          <value>
+            <map>
+              <entry key="localPort" value="50209" />
+              <entry key="serviceType" value="0" />
+            </map>
+          </value>
+        </entry>
+        <entry key="598191a8">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="fe871728">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="runClassList">
+      <map>
+        <entry key="444017f8">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

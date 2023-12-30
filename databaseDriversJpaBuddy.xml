@@ -1,0 +1,8 @@
+<application>
+  <component name="DatabaseDriversConfigState">
+    <drivers>
+      <db-driver id="com.mysql.cj.jdbc.Driver" version="8.0.25" />
+      <db-driver id="org.postgresql.Driver" version="42.6.0" />
+    </drivers>
+  </component>
+</application>
