@@ -15,6 +15,14 @@
             <map />
           </value>
         </entry>
+        <entry key="b38534ca">
+          <value>
+            <map>
+              <entry key="localPort" value="63329" />
+              <entry key="serviceType" value="0" />
+            </map>
+          </value>
+        </entry>
         <entry key="fe871728">
           <value>
             <map />
@@ -25,6 +33,11 @@
     <option name="runClassList">
       <map>
         <entry key="444017f8" />
+        <entry key="b38534ca">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

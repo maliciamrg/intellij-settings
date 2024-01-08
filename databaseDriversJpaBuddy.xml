@@ -3,6 +3,7 @@
     <drivers>
       <db-driver id="com.mysql.cj.jdbc.Driver" version="8.0.25" />
       <db-driver id="org.postgresql.Driver" version="42.6.0" />
+      <db-driver id="org.mariadb.jdbc.Driver" version="3.0.7" />
     </drivers>
   </component>
 </application>
