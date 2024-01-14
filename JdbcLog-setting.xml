@@ -23,21 +23,13 @@
             </map>
           </value>
         </entry>
-        <entry key="fe871728">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="fe871728" />
       </map>
     </option>
     <option name="runClassList">
       <map>
         <entry key="444017f8" />
-        <entry key="b38534ca">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="b38534ca" />
       </map>
     </option>
   </component>
