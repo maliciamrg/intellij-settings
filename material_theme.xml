@@ -4,11 +4,11 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="indicatorStyle" value="None" />
-    <option name="accentColor" value="4f4f80" />
+    <option name="accentColor" value="5294e2" />
     <option name="secondAccentColor" />
     <option name="highlightColor" />
     <option name="focusColor" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="-6ca8651e:18e0ca4d2f3:-8000" />
     <option name="version" value="8.13.2" />
     <option name="tabHighlightPosition" value="Bottom" />
