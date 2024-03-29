@@ -4,7 +4,7 @@
     <property name="created">2024-03-17T22:39:40</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2023.3.2.0.0</property>
-    <property name="modified">2024-03-26T00:03:01</property>
+    <property name="modified">2024-03-29T22:56:58</property>
     <property name="originalScheme">Arc Dark (Material)</property>
     <property name="partialSave">true</property>
     <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
@@ -21,7 +21,16 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <colors>
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
   </colors>
 </scheme>
